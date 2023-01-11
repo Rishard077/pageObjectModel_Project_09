@@ -1,0 +1,10 @@
+utilities\MonitoringMail$SMTPAuthenticator.class
+utilities\MonitoringMail.class
+testCases\FindNewCarTest.class
+utilities\ExcelReader.class
+testCases\BaseTest.class
+utilities\DataUtil.class
+testCases\ExplorePageTest.class
+utilities\DbManager.class
+utilities\TestConfig.class
+testCases\CarNameAndPriceTest.class
